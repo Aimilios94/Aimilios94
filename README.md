@@ -1,8 +1,11 @@
 ## Hi there 👋
-I'm an AI Automation Specialist from Greece. Came from a Finance & Accounting background — now I build end-to-end web apps full time.
+I'm an AI Engineer with a background in accounting and finance.
+I build AI end-to-end AI applications that can be trusted with real numbers: the model reads, code checks, and every result is measured.
 
-<🔭 I’m currently working on TradingNexus app i build, that has to do with trading stocks and crypto learning hub,live data, earnings comparison,KPIS,market analysis etc.
-- 🌱 I’m currently learning more about Context engineering and Claude Code.
-- 👯 Always excited for new projects and ideas.
-- 📫 You can reach me: aimilka.94@gmail.com
+**Featured:** [Receipt Ghostbuster](https://github.com/Aimilios94/Receipt-Ghostbuster): receipts in, a reconciled, VAT-split ledger out.
+
+**Stack:** Python · FastAPI · SQL · React · OpenAI / Anthropic · n8n · LangSmith · Sentry
+
+[LinkedIn](https://www.linkedin.com/in/aimilios-kamtsis-05138a1b5/) · [aimilka.94@gmail.com](mailto:aimilka.94@gmail.com)
+
 
